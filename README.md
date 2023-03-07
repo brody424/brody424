@@ -45,7 +45,7 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
+<!-- <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
@@ -64,15 +64,10 @@
 	</a>
 	<br>
 </div>
+-->
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
+<img src="https://github-readme-stats.vercel.app/api?username=brody424&show_icons=true">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brody424&layout=compact">
 </div>
