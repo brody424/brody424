@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#3399FF&height=200&section=header&text=Brody&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=200&section=header&text=Brody&fontSize=90" />
 
 <!--
 **brody424/brody424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
