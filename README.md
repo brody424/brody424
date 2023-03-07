@@ -1,4 +1,5 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=300&section=header&text=Brody&fontSize=90&fontColor=FFFFFF&animation=twinkling" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=300&section=header&text=iOS Developer Brody &fontSize=90&fontColor=FFFFFF&animation=twinkling" />
 
