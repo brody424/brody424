@@ -17,7 +17,6 @@
 	<img src="https://img.shields.io/badge/Xcode-007396?style=flat&logo=Xcode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Swift-E34F26?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" />
-		
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white" />
