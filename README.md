@@ -5,10 +5,8 @@
 </div>
 
 <div align=center>
-
 	<h1> iOS Developer </h1>
-	</div>
-
+</div>
 
 <div align=center>
 	<h3>📚 Main Tech Stack 📚</h3>
