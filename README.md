@@ -10,16 +10,18 @@
 
 <div align=center>
 	<h3>📚 Main Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Platforms & Languages & Tools ✨</p>
 </div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Xcode-007396?style=flat&logo=Xcode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Swift-E34F26?style=flat&logo=Swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" />
+		
 	<br>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white" />
+
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
