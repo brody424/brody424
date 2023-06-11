@@ -32,6 +32,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> -->
 </div>
 <br>
+<!--
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -45,7 +46,7 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<!-- <br>
+ <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
