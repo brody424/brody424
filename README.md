@@ -6,6 +6,7 @@
 
 <div align=center>
 	<h1> iOS Developer </h1>
+	<h1><a href="https://github.com/brody424/TIL">개발하면서 끄적거리는중.. 끄적잉...(TIL)</h1>
 </div>
 
 <div align=center>
