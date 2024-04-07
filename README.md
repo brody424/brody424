@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Brody's+Github)](https://git.io/typing-svg)
 
-<span style="font-size:2em;">
-📚 Main Tech Stack 📚
-</span>   
+# 📚 Main Tech Stack 📚
 
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -27,9 +25,7 @@
 
 <br/>
 
-<span style="font-size:2em;">
-📚 Sub Tech Stack 📚
-</span>  
+# 📚 Sub Tech Stack 📚
 
 사이드프로젝트를 위해 업무 외에 해본 것들!  
 
@@ -49,23 +45,19 @@
 
 <br/>
 
----
 
 <br/>
 
 
-<span style="font-size:1.5em;">
-<a href="https://github.com/brody424/TIL">TIL(개발하다 끄적끄적) </a> 
-</span> 
-<br/>
 
----
+## <a href="https://github.com/brody424/TIL">TIL(개발하다 끄적끄적) </a> 
 
 <br/>
 
-<span style="font-size:2em;">
-✨ 현재 진행 중 ✨
-</span>  
+<br/>
+
+
+## ✨ 현재 진행 중 ✨
 
 - 개인앱 면접사전 개발 및 유지보수
     - [AppStore에서 보러가기](https://apps.apple.com/kr/app/id6450047001) 
