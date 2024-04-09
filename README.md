@@ -9,11 +9,14 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white
-)
+![RxSwift](https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
+![MVC](https://img.shields.io/badge/MVC-23F24E1E?style=for-the-badge&logo=apple&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge&logo=apple&logoColor=white)
+![MVVM-C](https://img.shields.io/badge/MVVM~C-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-233233?style=for-the-badge&logo=apple&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
