@@ -2,6 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=300&section=header&text=Brody's+Github&fontSize=90&fontColor=FFFFFF&animation=twinkling" />
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/brody424"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Brody's+Github)](https://git.io/typing-svg)
 
 # 📚 Main Tech Stack 📚
